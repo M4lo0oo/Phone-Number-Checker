@@ -9,5 +9,5 @@ And click here
 
 ```
 1. Extract the file
-2. Put the token in token.txt
+2. Put the phone number with prefix in token.txt
 3. Launch start.bat
